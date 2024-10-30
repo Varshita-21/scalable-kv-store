@@ -1,0 +1,4 @@
+com/kvstore/storage/SQLiteStorageTest$1.class
+com/kvstore/server/KVStoreServiceImplTest.class
+com/kvstore/storage/SQLiteStorageTest.class
+com/kvstore/raft/RaftStateTest.class

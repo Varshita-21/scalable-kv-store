@@ -1,0 +1,4 @@
+/users/wjhu/P2/server/server/src/test/java/com/kvstore/server/KVStoreServiceImplTest.java
+/users/wjhu/P2/server/server/src/test/java/com/kvstore/storage/SQLiteStorageTest.java
+/users/wjhu/P2/server/server/src/test/java/com/kvstore/raft/RaftStateTest.java
+/users/wjhu/P2/server/server/src/test/java/com/kvstore/raft/RaftNodeTest.java
